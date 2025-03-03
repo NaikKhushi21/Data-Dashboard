@@ -1,0 +1,11 @@
+Property Name,Purchase Price,Closing Costs,Initial Improvement/Renovation Costs,Monthly Rental Income,Occupancy Rate,Annual Rent Increase Rate,Property Management Fee,Maintenance Costs,Insurance Costs,Property Taxes,Utilities,Reserves for Repairs,Other Operating Expenses,Loan Amount,Interest Rate,Loan Term,Holding Period,Estimated Sale Price,Selling Costs,ROI (%),Target ROI/IRR,Other Assumptions/Notes,simulationResults
+"Sunset Villas",750000,15000,45000,7000,90,2,500,3000,800,4000,500,1500,300,500000,4.5,30,10,900000,3,9,9,"Suburban area with stable rent","[7.5,8.2,8.7,9.1]"
+"Downtown Office",2000000,25000,100000,18000,92,2.5,1500,12000,2000,14000,1200,3000,800,1500000,5,30,15,2800000,4,11,10,"Prime downtown location","[9.5,10.0,10.2,10.8]"
+"Lakeside Apartments",1250000,18000,35000,9000,93,3,800,9000,1500,7000,800,2500,600,1000000,4.2,30,12,1600000,3.5,10,9.5,"Waterfront complex with strong demand","[8.5,9.0,9.3,9.8]"
+"Maple Residences",980000,12000,40000,5800,94,2.2,450,7000,1100,5000,600,2000,400,600000,4,30,8,1200000,2.5,8.5,8.2,"Quiet neighborhood appeal","[7.5,7.8,8.0,8.5]"
+"Riverside Condos",1500000,20000,60000,9500,95,3,900,10000,1300,6000,700,2200,500,900000,4.6,30,10,1850000,3.2,10,9.5,"Waterfront views, premium amenities","[8.8,9.5,10.0,10.5]"
+"Greenwood Lofts",850000,10000,30000,5000,91,2.5,400,6000,1000,4000,500,1500,300,500000,4.3,30,7,1050000,2.8,8.2,8,"Urban revival area","[7.0,7.5,8.0,8.3]"
+"Edgewater Villas",1650000,22000,75000,8800,90,3,1000,10000,1600,7500,700,2400,800,1200000,5.2,30,12,2100000,3.5,10.5,10,"Luxury waterfront property","[9.2,9.5,10.0,10.2]"
+"Oakwood Estates",1350000,18000,50000,7500,92,2.5,800,8000,1400,6500,600,2000,400,800000,4.6,30,9,1600000,3,9.3,9,"Spacious suburban estate","[8.7,9.0,9.3,9.6]"
+"Cedar Park",1020000,13000,45000,6000,94,2,500,7000,1200,5200,550,2100,500,550000,4.4,30,8,1200000,2.7,8.8,8.5,"Family-friendly community","[7.8,8.2,8.5,8.9]"
+"City Center Flats",2100000,30000,100000,16500,88,2.5,1800,15000,2500,15000,1000,3000,800,1600000,5.5,30,15,2950000,4.5,11,10.5,"High demand urban rental","[9.8,10.0,10.2,10.8]"
